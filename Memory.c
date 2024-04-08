@@ -1,4 +1,4 @@
-include<stdio.h>
+#include<stdio.h>
 
 void ff(int p,int b,int pro[12],int block[12])
 {
